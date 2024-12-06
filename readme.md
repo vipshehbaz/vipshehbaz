@@ -5,11 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipshehbaz" alt="vipshehbaz" /></a> </p>
 
+- 🌱 I’m currently learning **Backend**
+
 - 👨‍💻 All of my projects are available at [https://shehbaz-portfolio.netlify.app/](https://shehbaz-portfolio.netlify.app/)
+
+- 💬 Ask me about **Any thing**
 
 - 📫 How to reach me **learnfromshehbaz08@gmail.com**
 
 - 📄 Know about my experiences [https://shehbaz-portfolio.netlify.app/resume.pdf](https://shehbaz-portfolio.netlify.app/resume.pdf)
+
+- ⚡ Fun fact **I am not only a full stack developer but also enjoys crafting visually engaging user interfaces, making coding feel like an art form!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
